@@ -1,0 +1,17 @@
+ whoami - Display the Current User 
+history- To display history
+ free- to check memory
+nslookup <domain name>- Dns servere info
+`curl`- is a tool which is used to fetch data
+curl -o `flag saves the data into a file on the local machine. `curl -o [file_name] [URL...]
+apt-get command used to manage packages in the linux. APT stand for the Advanced Packaging Tool , and its main used of install , update , upgrade and remove the packages. 
+Sudo apt-get install docker.io
+`du` command is used to check disk usage space.
+`df` the is a command used to check the available disk space in system
+ifconfig is command is used to view the information about your network interface
+mkdir V1
+For creating directory paths (directories inside directories):
+mkdir -p   v1/v2/v3/v4
+For copying a file with verbosity and force (overwrite if necessary):
+cp -rvf  V1 V2
+mv v1 v10   - rename
