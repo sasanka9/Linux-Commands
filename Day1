@@ -1,0 +1,14 @@
+pwd: Print Working Directory.
+ls: List files and directories.
+cd: Change Directory.
+touch: Create an empty file.
+mkdir: Create a directory.
+rmdir: Remove an empty directory.
+rm: Remove files or directories.
+cp: Copy files or directories.
+mv: Move or rename files/directories.
+find: Search for files and directories.
+tree: Display directory structure.
+uname - Print System Information
+uname -r   Print Kernel Release Information
+clear - Clear the Terminal Screen
