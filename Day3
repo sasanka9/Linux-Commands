@@ -1,0 +1,15 @@
+useradd/userdel: Add/delete user accounts.
+passwd: Change user passwords.
+groupadd/groupdel: Add/delete user groups.
+id: Display user and group information.
+chmod: Change file permissions.
+chown: Change file ownership.
+chgrp: Change group ownership of files.
+sudo: Execute commands with superuser privileges.
+ps: List running processes.
+top: Monitor system processes.
+kill: Terminate processes.
+systemctl: Manage system services.
+df: Display disk space usage.
+du: Display directory space usage.
+free: Display system memory usage.
