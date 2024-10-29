@@ -1,0 +1,15 @@
+ifconfig/ip: Display network configuration.
+netstat: Network statistics.
+ss: Socket statistics.
+ping: Test network connectivity.
+tar: Tape Archive — Compress and archive files.
+gzip/gunzip: Compress/decompress files.
+who: Display who is logged in.
+w: Display who is logged in and what they are doing.
+last: Show last logged in users.
+whoami: Display the current username.
+su: Switch user or become a superuser.
+groups: List user’s group memberships.
+newgrp: Change the effective group ID.
+id: Display user and group information.
+chpasswd: Change passwords in batch mode
